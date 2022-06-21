@@ -1,5 +1,5 @@
 Name,Club,Nationality,Position,Age,Matches,Starts,Mins,Goals,Assists,Passes_Attempted,Perc_Passes_Completed,Penalty_Goals,Penalty_Attempted,xG,xA,Yellow_Cards,Red_Cards
-Mason Mount,Chelsea,ENG,"MF,FW",22,36,32,2890,6,5,1881,82.3,1,1,0.21,0.24,2,0
+Mason Mount,Chelsea,ENG,"MF,FW",21,36,32,2890,6,5,1881,82.3,1,1,0.21,0.24,2,0
 Edouard Mendy,Chelsea,SEN,GK,28,31,31,2745,0,0,1007,84.6,0,0,0,0,2,0
 Timo Werner,Chelsea,GER,FW,24,35,29,2602,6,8,826,77.2,0,0,0.41,0.21,2,0
 Ben Chilwell,Chelsea,ENG,DF,23,27,27,2286,3,5,1806,78.6,0,0,0.1,0.11,3,0
@@ -34,7 +34,7 @@ João Cancelo,Manchester City,POR,DF,26,28,27,2299,2,3,2094,85.7,0,0,0.08,0.19,5
 Bernardo Silva,Manchester City,POR,"MF,FW",25,26,24,2065,2,6,1427,89.7,0,0,0.12,0.16,5,0
 İlkay Gündoğan,Manchester City,GER,MF,29,28,23,2029,13,2,1707,91,1,2,0.4,0.2,1,0
 Kevin De Bruyne,Manchester City,BEL,MF,29,25,23,1997,6,12,1406,76,2,3,0.44,0.46,1,0
-Riyad Mahrez,Manchester City,ALG,FW,29,27,23,1949,9,6,1086,84.2,0,0,0.26,0.27,0,0
+Riyad Mahrez,Manchester City,ALG,FW,28,27,23,1949,9,6,1086,84.2,0,0,0.26,0.27,0,0
 Gabriel Jesus,Manchester City,BRA,FW,23,29,22,2063,9,4,754,84.6,0,0,0.38,0.15,2,0
 Kyle Walker,Manchester City,ENG,DF,30,24,22,1946,1,1,1897,89.4,0,0,0.01,0.02,1,0
 John Stones,Manchester City,ENG,DF,26,22,22,1933,4,0,1713,94.3,0,0,0.1,0,0,1
